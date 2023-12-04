@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "Assignments for the Client Technology course",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "jest"
   },
